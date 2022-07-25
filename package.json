@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {"name": "Harinder Singh"},
+	"version": "1.1.1",
+	"author": "Harinder Singh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
